@@ -23,13 +23,17 @@ I'm still building my way into the field, but I like learning by making things, 
 
 ## ✨ I'm Currently Working On
 
-- **Exploring health analytics & digital health** — Figuring out where public health + data takes me next
-- **Building small web apps with AI-assisted coding** — Extending technical skills through hands-on projects
-- **Power BI dashboard portfolio** — Creating interactive healthcare dashboards for real-world scenarios
+- **coming soon**
 
-## 🌱 Currently Learning
+## 🎠 What I’m Exploring
 
-- **SQL & Python** — Building foundations for data manipulation and analysis
+- **Healthcare + data** — Building toward work where public health knowledge, data, and technology can meet in useful ways
+- **AI for healthcare** — Exploring how pre-trained AI models can support research and practical healthcare use cases
+- **Small things that actually work** — Building little web projects with AI-assisted coding to get more comfortable with the technical side of things
+
+## 🌱 Skills I’m Growing
+
+- **SQL & Python** — Developing stronger foundations for data manipulation and analysis
 - **AI-assisted research workflows** — Applying pre-trained models to healthcare use cases
 - **Next.js & TypeScript** — Full-stack web development for data-driven applications
 
