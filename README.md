@@ -13,9 +13,13 @@
 
 ## 🚀 About Me
 
-A public health graduate turned data professional, focused on turning messy healthcare and research data into insights people can actually use. I enjoy building dashboards that get used, not just admired, and I'm now extending that into applying pre-trained AI models to healthcare use cases.
+I'm a public health graduate making my way into data, with a soft spot for messy datasets and the strange satisfaction of making them behave.
 
-My background spans research (co-authored a BMJ Open publication), Power BI dashboarding, and AI-assisted research workflows. I'm drawn to the intersection of health science and data, and I like the moment a messy dataset turns into something someone can actually act on.
+My background is in public health research, where I've worked with survey data, evidence synthesis, and healthcare research, including a co-authored publication in *BMJ Open*. Along the way, I've been building my skills in Power BI, SQL, Python, and AI-assisted research workflows, and I'm now exploring how pre-trained AI models can be applied to healthcare in practical, thoughtful ways.
+
+I'm drawn to the space where health science meets data: asking better questions, finding patterns hiding in the numbers, and turning them into something people can actually understand and use.
+
+I'm still building my way into the field, but I like learning by making things, pulling apart problems, and following the occasional "wait, what is this data trying to tell me?" rabbit hole.
 
 ## 🔭 I'm Currently Working On
 
