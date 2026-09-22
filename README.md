@@ -10,6 +10,9 @@
                             │                                             │
                             └─────────────────────────────────────────────┘
 ```
+I'm a public health graduate turned data professional, focused on turning messy healthcare and research data into insights people can actually use. I enjoy building dashboards that get used, not just admired, and I'm now extending that into applying pre-trained AI models to healthcare use cases.
+
+My background spans research (co-authored a BMJ Open publication), Power BI dashboarding, and AI-assisted research workflows. I'm drawn to the intersection of health science and data, and I like the moment a messy dataset turns into something someone can actually act on.
 
 ## 🛠️ Technical Skillset
 
