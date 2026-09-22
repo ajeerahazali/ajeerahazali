@@ -11,6 +11,24 @@
                             └─────────────────────────────────────────────┘
 ```
 
+## 🚀 About Me
+
+A public health graduate turned data professional, focused on turning messy healthcare and research data into insights people can actually use. I enjoy building dashboards that get used, not just admired, and I'm now extending that into applying pre-trained AI models to healthcare use cases.
+
+My background spans research (co-authored a BMJ Open publication), Power BI dashboarding, and AI-assisted research workflows. I'm drawn to the intersection of health science and data, and I like the moment a messy dataset turns into something someone can actually act on.
+
+## 🔭 I'm Currently Working On
+
+- **Exploring health analytics & digital health** — Figuring out where public health + data takes me next
+- **Building small web apps with AI-assisted coding** — Extending technical skills through hands-on projects
+- **Power BI dashboard portfolio** — Creating interactive healthcare dashboards for real-world scenarios
+
+## 🌱 Currently Learning
+
+- **SQL & Python** — Building foundations for data manipulation and analysis
+- **AI-assisted research workflows** — Applying pre-trained models to healthcare use cases
+- **Next.js & TypeScript** — Full-stack web development for data-driven applications
+
 ## 🛠️ Technical Skillset
 
 #### Data Analysis & Visualization
