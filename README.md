@@ -11,7 +11,8 @@
                             └─────────────────────────────────────────────┘
 ```
 
-## 🚀 About Me
+## <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/a4adbf6e-31cc-451d-9fd6-28c839479b70" />
+ About Me
 
 I'm a public health graduate making my way into data, with a soft spot for messy datasets and the strange satisfaction of making them behave.
 
