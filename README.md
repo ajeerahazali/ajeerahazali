@@ -11,7 +11,7 @@
                             └─────────────────────────────────────────────┘
 ```
 
-##  About Me
+## 🧚‍♀️ About Me
 
 I'm a public health graduate making my way into data, with a soft spot for messy datasets and the strange satisfaction of making them behave.
 
@@ -21,7 +21,7 @@ I'm drawn to the space where health science meets data: asking better questions,
 
 I'm still building my way into the field, but I like learning by making things, pulling apart problems, and following the occasional "wait, what is this data trying to tell me?" rabbit hole.
 
-## 🔭 I'm Currently Working On
+## ✨ I'm Currently Working On
 
 - **Exploring health analytics & digital health** — Figuring out where public health + data takes me next
 - **Building small web apps with AI-assisted coding** — Extending technical skills through hands-on projects
