@@ -5,58 +5,58 @@
                             ┌─────────────────────────────────────────────┐
                             │ ██ VITALS                                   │
                             ├─────────────────────────────────────────────┤
-                            │  COFFEE    ██████████████████████   88/100  │
-                            │  PATIENCE  ██████████████░░░░░░░░░░ 52/100  │
+                            │  COFFEE    ███████████████████      70/100  │
+                            │  PATIENCE  ██████████████████████░░░80/100  │
                             │                                             │
                             └─────────────────────────────────────────────┘
 ```
-
 ## 🧚‍♀️ About Me
 
-I'm a public health graduate making my way into data, with a soft spot for messy datasets and the strange satisfaction of making them behave.
+I'm a public health graduate moving into health data analysis, with a soft spot for messy datasets and the patience to untangle them.
 
-My background is in public health research, where I've worked with survey data, evidence synthesis, and healthcare research, including a co-authored publication in *BMJ Open*. Along the way, I've been building my skills in Power BI, SQL, Python, and AI-assisted research workflows, and I'm now exploring how pre-trained AI models can be applied to healthcare in practical, thoughtful ways.
+Before this, I spent 10 months as a research assistant in health systems research, supporting a consensus study on chronic ambulatory care sensitive conditions in Malaysia. I reviewed the literature on consensus methods, supported data collection for panel discussions and modified Delphi rounds, and helped analyse the results with the team. The work led to a co-authored paper in *BMJ Open*. Since then I've been building my technical skills in SQL, Python and Power BI through hands-on projects.
 
-I'm drawn to the space where health science meets data: asking better questions, finding patterns hiding in the numbers, and turning them into something people can actually understand and use.
+I'm looking for **junior health data analyst or research analyst roles** in Malaysia (open to remote).
 
-I'm still building my way into the field, but I like learning by making things, pulling apart problems, and following the occasional "wait, what is this data trying to tell me?" rabbit hole.
+I learn by making things, pulling apart problems, and following the occasional "wait, what is this data trying to tell me?" rabbit hole.
 
-## ✨ I'm Currently Working On
+<!--
+## 📊 Projects
 
-- **coming soon**
+- **[Project name]**: [dataset, question, what you found]. [Link]
+-->
 
-## 🎠 What I’m Exploring
+## 📄 Publication
 
-- **Healthcare + data** — Building toward work where public health knowledge, data, and technology can meet in useful ways
-- **AI for healthcare** — Exploring how pre-trained AI models can support research and practical healthcare use cases
-- **Small things that actually work** — Building little web projects with AI-assisted coding to get more comfortable with the technical side of things
+- **Defining chronic ambulatory care sensitive conditions in Malaysia: a collaborative consensus study.** *BMJ Open* 2026;16:e099891. Co-author.
+  Method: consultative panel discussion, multi-panel modified Delphi and secondary health data analysis.
+  My role: reviewed the literature on consensus methods, supported data collection and documentation for panel and Delphi sessions, and helped analyse results with the research team.
+  [Paper](https://doi.org/10.1136/bmjopen-2025-099891)
 
-## 🌱 Skills I’m Growing
+## 🎓 Certifications
 
-- **SQL & Python** — Developing stronger foundations for data manipulation and analysis
-- **AI-assisted research workflows** — Applying pre-trained models to healthcare use cases
-- **Next.js & TypeScript** — Full-stack web development for data-driven applications
+- **Microsoft Certified: Power BI Data Analyst Associate**, Microsoft. [Verify](https://learn.microsoft.com/en-us/users/ajeerahazali/credentials/f8ea50fcdd152b1c)
+- **Certified Associate in Prompt Engineering**, TalentLabs. [Verify](https://www.talentlabs.org/certificate/ZDJ1HIPlQj-mSk4gVxmFPw)
 
-## 🛠️ Technical Skillset
+## 🎠 What I'm Exploring
 
-#### Data Analysis & Visualization
+- **AI for healthcare**: testing how pre-trained models can support research and practical healthcare use cases
+- **Small things that actually work**: building small web projects with AI-assisted coding (Next.js, TypeScript) to get comfortable with the technical side
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Intermediate-FF6B6B?style=flat)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-Intermediate-4ECDC4?style=flat)
+## 🛠️ Toolkit
 
-#### Programming & Tools
+**Analysis & visualisation**
 
-![Python](https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-Intermediate-00C4CC?style=flat&logo=canva&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-Beginner-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-3178C6?style=flat&logo=typescript&logoColor=white)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://learn.microsoft.com/en-us/users/ajeerahazali/credentials/f8ea50fcdd152b1c)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-#### Research & Communication
+**Research**
 
-![Academic Research](https://img.shields.io/badge/Academic%20Research-Intermediate-96CEB4?style=flat)
-![Client Communication](https://img.shields.io/badge/Client%20Communication-Intermediate-45B7D1?style=flat)
-![Project Coordination](https://img.shields.io/badge/Project%20Coordination-Intermediate-DDA0DD?style=flat)
-![Social Media Mgmt](https://img.shields.io/badge/Social%20Media%20Mgmt-Intermediate-FF69B4?style=flat)
+![Modified Delphi](https://img.shields.io/badge/Modified%20Delphi-4ECDC4?style=flat)
+![Consensus Methods](https://img.shields.io/badge/Consensus%20Methods-45B7D1?style=flat)
+![Qualitative Data](https://img.shields.io/badge/Qualitative%20Data-96CEB4?style=flat)
+![Literature Review](https://img.shields.io/badge/Literature%20Review-DDA0DD?style=flat)
+
+**Also:** Project coordination · Client communication · Canva
