@@ -70,6 +70,8 @@ my heroes &lt;3
 - [CHVRCHES — Asking for a Friend](https://www.youtube.com/watch?v=Y6DHggNoWDc)
 - [Paramore — Last Hope](https://youtu.be/XoYu7K6Ywkg?si=bf88_L9nmnze67lC)
 - [Coldplay — Up&Up](https://youtu.be/BPNTC7uZYrI?si=CG2qzIeqq9S5mjqY)
+- [Avril Lavigne — I'm With You](https://youtu.be/dGR65RWwzg8?si=SyGge0sIIVV1-O0U)
+- [The Killers — All These Things That I've Done](https://youtu.be/sZTpLvsYYHw?si=YvphVl3cH-PQjm9c)
 
 </details>
 
