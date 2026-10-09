@@ -60,3 +60,16 @@ I learn by making things, pulling apart problems, and following the occasional "
 ![Literature Review](https://img.shields.io/badge/Literature%20Review-DDA0DD?style=flat)
 
 **Also:** Project coordination · Client communication · Canva
+
+---
+<details>
+<summary>♫</summary>
+
+my heroes &lt;3
+
+- [CHVRCHES — Asking for a Friend](https://www.youtube.com/watch?v=Y6DHggNoWDc)
+- [Paramore — Last Hope](https://youtu.be/XoYu7K6Ywkg?si=bf88_L9nmnze67lC)
+- [Coldplay — Up&Up](https://youtu.be/BPNTC7uZYrI?si=CG2qzIeqq9S5mjqY)
+
+</details>
+
